@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PdRjtyQxuCe0xQzUDRXzpBz9VF8ol0/9qtSCzABiYMtBFmhDoCGjlKsq6b9sMbcqcUQ1c+CindGmb7sPUieh6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\kalkulacka\\kalkulacka\\kalkulacka.iOS\\kalkulacka.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
